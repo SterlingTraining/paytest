@@ -4,6 +4,7 @@ public class Rectangle {
 	
 	public int add(int i, int j) {
 		multiply(i, j);
+		i++;
 		return i-j;
 	}
 	
