@@ -2,7 +2,7 @@ package com.paytest;
 
 public class Rectangle {
 	
-	public int adm(int i, int j) {
+	public int add(int i, int j) {
 		multiply(i, j);
 		i++;
 		return i-j;
