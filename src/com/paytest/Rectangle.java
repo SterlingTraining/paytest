@@ -9,5 +9,9 @@ public class Rectangle {
 	public int multiply(int i, int j) {
 		return i*j;
 	}
+	
+	public int substract(int i, int j) {
+		return i-j;
+	}
 
 }
