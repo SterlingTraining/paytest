@@ -3,6 +3,7 @@ package com.paytest;
 public class Rectangle {
 	
 	public int add(int i, int j) {
+		i = i++;
 		return i-j;
 	}
 	
